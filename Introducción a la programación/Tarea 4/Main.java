@@ -13,15 +13,15 @@ public class Main {
         int numeroIf = 1;
 
         if(numeroIf > 0){
-            System.out.println("El número es positivo.");
+            System.out.println("El número " + numeroIf + " es positivo.");
         }
 
         else if(numeroIf < 0){
-            System.out.println("El número es negativo.");
+            System.out.println("El número " + numeroIf + " es negativo.");
         }
 
         else {
-            System.out.println("El número es igual a 0.");
+            System.out.println("El número " + numeroIf + " es 0.");
         }
 
         /*
@@ -35,7 +35,7 @@ public class Main {
 
         while (numeroWhile <3){
             numeroWhile++;
-            System.out.println(numeroWhile);
+            System.out.println("La variable numeroWhile ahora vale: " + numeroWhile);
         }
 
         /*
@@ -43,12 +43,12 @@ public class Main {
          debe ejecutar una vez.
         */
 
-        numeroWhile = 1;
+        int numeroDoWhile = 1;
 
         do {
-            System.out.println(numeroWhile);
-            numeroWhile++;
-        } while(numeroWhile < 0);
+            System.out.println("La variable numeroDoWhile ahora vale: " + numeroDoWhile);
+            numeroDoWhile++;
+        } while(numeroDoWhile < 0);
 
         /*
         4-Para el bucle For, crea una variable numeroFor, esta variable tendrá como valor 0 y su condición
@@ -57,7 +57,7 @@ public class Main {
         */
 
         for (int numeroFor = 0; numeroFor <=3; numeroFor++){
-            System.out.println(numeroFor);
+            System.out.println("La variable numeroFor ahora vale: " + numeroFor);
         }
 
         /*
