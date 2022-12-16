@@ -14,6 +14,7 @@ Segunda parte:
     4-Crear un objeto miCoche en el main y añadirle una puerta.
     5-Mostrar el número de puertas que tiene el objeto.
 */
+
 public class Main {
     public static void main(String[] args){
 
