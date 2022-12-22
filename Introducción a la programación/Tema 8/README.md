@@ -1,4 +1,4 @@
-# Ejercicios tema 8
+# Ejercicios tema 8 - Encapsulación
 
 Para practicar la **encapsulación**:
 
