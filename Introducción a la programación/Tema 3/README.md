@@ -1,4 +1,4 @@
-# Ejercicios tema 3
+# Ejercicios tema 3 - Funciones
 
 Primera parte:
 
