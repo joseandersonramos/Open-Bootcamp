@@ -1,4 +1,4 @@
-# Ejercicio tema 9
+# Ejercicio tema 9 - Herencia
 
 Crea una clase Persona con las siguientes variables:
 
