@@ -1,6 +1,6 @@
 package com.company;
 
-//Ejercicios Tema 4 - Estructuras de control
+// Ejercicios Tema 4 - Estructuras de control
 
 public class Main {
     public static void main(String[] args){
