@@ -1,6 +1,8 @@
 package com.company;
 
 /*
+Ejercicios tema 3 - Funciones
+
 Primera parte:
 
     1-Crear una función con tres parámetros que sean números que se suman entre sí.
