@@ -1,7 +1,7 @@
 package com.company;
 
 /*
-Tema 8
+Ejercicios tema 8 - Encapsulación
 
 Para practicar la encapsulación:
 
